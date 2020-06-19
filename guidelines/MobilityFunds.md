@@ -29,3 +29,17 @@ Warning: BOUM projects are not meant to finance classic collaborations between r
 
 
 # Mobility Funds for France-Germany
+
+## 1. Programme Procope
+
+https://www.campusfrance.org/fr/procope#Types
+
+"Avec participation active de jeunes chercheurs, incluant les doctorants" : 125 EUR/jour, voyage 450€
+
+## 2. Appels à projet de l'UFA pour des manifestations scientifiques
+
+https://www.dfh-ufa.org/fr/vous-etes/etablissements/appels-a-projets/manifestations-scientifiques
+
+## 3. Bourse Erasmus
+
+## 4. Financements liés à la cotutelle
